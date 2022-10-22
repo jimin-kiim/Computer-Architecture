@@ -15,3 +15,10 @@
 - [Register and Memory](https://github.com/jimin-kiim/Computer-Architecture/issues/3#issuecomment-1279729939)
 - [Data Representation of MIPS](https://github.com/jimin-kiim/Computer-Architecture/issues/3#issuecomment-1279875150)
 - [Instruction Representation of MIPS](https://github.com/jimin-kiim/Computer-Architecture/issues/3#issuecomment-1287665012)
+  <br>
+  <br>
+- [Common HW design for MIPS ISA](https://github.com/jimin-kiim/Computer-Architecture/issues/4#issuecomment-1279887268)
+- [Arithmetic, Logical, Shift, Conditional Operations](https://github.com/jimin-kiim/Computer-Architecture/issues/4#issuecomment-1279892291)
+- [Procedures](https://github.com/jimin-kiim/Computer-Architecture/issues/4#issuecomment-1279900049)
+- [MIPS memory allocation](https://github.com/jimin-kiim/Computer-Architecture/issues/4#issuecomment-1279925944)
+- [Addressing Mode](https://github.com/jimin-kiim/Computer-Architecture/issues/4#issuecomment-1279943655)
