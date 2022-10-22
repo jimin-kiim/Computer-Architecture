@@ -27,3 +27,8 @@
 - [Arithmetic for Computers - Addition and Subtraction](https://github.com/jimin-kiim/Computer-Architecture/issues/5#issuecomment-1279963462)
 - [Arithmetic for Computers - Multiplication](https://github.com/jimin-kiim/Computer-Architecture/issues/5#issuecomment-1279983336)
 - [Arithmetic for Computers - Division](https://github.com/jimin-kiim/Computer-Architecture/issues/5#issuecomment-1280146647)
+  <br>
+  <br>
+- [Instruction Implementation Overview](https://github.com/jimin-kiim/Computer-Architecture/issues/6#issuecomment-1280390765)
+- [Clocking Methodology](https://github.com/jimin-kiim/Computer-Architecture/issues/6#issuecomment-1280434687)
+- [Building and Controlling Datapath](https://github.com/jimin-kiim/Computer-Architecture/issues/6#issuecomment-1280464544)
