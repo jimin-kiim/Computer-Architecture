@@ -22,3 +22,8 @@
 - [Procedures](https://github.com/jimin-kiim/Computer-Architecture/issues/4#issuecomment-1279900049)
 - [MIPS memory allocation](https://github.com/jimin-kiim/Computer-Architecture/issues/4#issuecomment-1279925944)
 - [Addressing Mode](https://github.com/jimin-kiim/Computer-Architecture/issues/4#issuecomment-1279943655)
+  <br>
+  <br>
+- [Arithmetic for Computers - Addition and Subtraction](https://github.com/jimin-kiim/Computer-Architecture/issues/5#issuecomment-1279963462)
+- [Arithmetic for Computers - Multiplication](https://github.com/jimin-kiim/Computer-Architecture/issues/5#issuecomment-1279983336)
+- [Arithmetic for Computers - Division](https://github.com/jimin-kiim/Computer-Architecture/issues/5#issuecomment-1280146647)
