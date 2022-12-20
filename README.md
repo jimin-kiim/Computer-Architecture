@@ -32,3 +32,6 @@
 - [Instruction Implementation Overview](https://github.com/jimin-kiim/Computer-Architecture/issues/6#issuecomment-1280390765)
 - [Clocking Methodology](https://github.com/jimin-kiim/Computer-Architecture/issues/6#issuecomment-1280434687)
 - [Building and Controlling Datapath](https://github.com/jimin-kiim/Computer-Architecture/issues/6#issuecomment-1280464544)
+
+- [MIPS Pipeline](https://github.com/jimin-kiim/Computer-Architecture/issues/7#issuecomment-1336305206)
+- [Pipelining Hazards](https://github.com/jimin-kiim/Computer-Architecture/issues/7#issuecomment-1336327859)
