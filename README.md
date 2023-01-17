@@ -32,6 +32,14 @@
 - [Instruction Implementation Overview](https://github.com/jimin-kiim/Computer-Architecture/issues/6#issuecomment-1280390765)
 - [Clocking Methodology](https://github.com/jimin-kiim/Computer-Architecture/issues/6#issuecomment-1280434687)
 - [Building and Controlling Datapath](https://github.com/jimin-kiim/Computer-Architecture/issues/6#issuecomment-1280464544)
-
+  <br>
+  <br>
 - [MIPS Pipeline](https://github.com/jimin-kiim/Computer-Architecture/issues/7#issuecomment-1336305206)
+- [Pipelined Datapath](https://github.com/jimin-kiim/Computer-Architecture/issues/13#issue-1474576743)
 - [Pipelining Hazards](https://github.com/jimin-kiim/Computer-Architecture/issues/7#issuecomment-1336327859)
+- [Handling Pipelining Hazards](https://github.com/jimin-kiim/Computer-Architecture/issues/8#issue-1473301599)
+  <br>
+  <br>
+- [Cache Overview](https://github.com/jimin-kiim/Computer-Architecture/issues/10#issue-1473302480)
+- [Improving Cache Performance](https://github.com/jimin-kiim/Computer-Architecture/issues/11#issue-1473303154)
+- [Virtual Memory](https://github.com/jimin-kiim/Computer-Architecture/issues/12#issue-1473303592)
